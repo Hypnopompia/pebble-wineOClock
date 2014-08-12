@@ -1,0 +1,28 @@
+{
+  "uuid": "b82a18a8-2b3b-42ad-bc84-2a04d47d0585",
+  "shortName": "Wine O'Clock",
+  "longName": "Wine O'Clock",
+  "companyName": "@hunter_tj",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_wine.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_ROBOTO_BOLD_SUBSET_36",
+        "file": "fonts/Roboto-Bold.ttf"
+      }
+    ]
+  }
+}
